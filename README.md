@@ -1,2 +1,2 @@
 # Sparty Bros Adventures
- a Unity2D platformer game stunning enemies, collecting coins on your way to get the rose.
+ Unity 2D Platformer game. The player Sparty the adventurer tries to find his way to the red rose to end the game defeated or avoiding enemies on his way.
